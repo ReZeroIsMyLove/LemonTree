@@ -1,1 +1,0 @@
-CC.exe -pG8THajvJjD -d%temp%\LemonTree-main
